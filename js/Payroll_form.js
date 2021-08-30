@@ -71,5 +71,5 @@ let getSelectedValues = (property) => {
 
 let getInputValueById = (id) => {
     let value = document.querySelector(id).value;
-    return value;
+    return value; 
 }
